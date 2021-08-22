@@ -5,7 +5,6 @@ body {
 
 h1 {
     color: #a6dbc8c2;
-    text-align: center;
 }
 
 a {
@@ -16,6 +15,12 @@ a {
 a:hover {
     opacity: 80%;
     color: rgba(38, 44, 44, 0.685);
+}
+
+.description {
+        color: #a6dbc8c2;
+        text-align: center;
+
 }
 
 .bg-white {
