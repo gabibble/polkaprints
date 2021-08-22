@@ -3,6 +3,11 @@ body {
     color: rgb(38, 44, 44);
 }
 
+h1 {
+    color: #a6dbc8c2;
+    text-align: center;
+}
+
 a {
     text-decoration: none;
     color: rgb(38, 44, 44);
@@ -13,7 +18,7 @@ a:hover {
     color: rgba(38, 44, 44, 0.685);
 }
 
-bg-white {
+.bg-white {
     background-color: white;
 }
 
